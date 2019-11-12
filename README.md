@@ -28,7 +28,7 @@ The content of this site is managed by Sanity.io. Visit https://wonderful-petuni
 
 1. Starts a development server
 2. a;asasasd
-
+****
         npm run develop
 
 3. Browse to [http://localhost:8000/](http://localhost:8000/)

@@ -17,7 +17,7 @@ export default class SectionPricing extends React.Component {
                   {htmlToReact(_.get(this.props, 'section.subtitle'))}
                 </p>
                 }
-              </div>
+              </div>d
               {_.get(this.props, 'section.pricingplans') &&
               <div className="inner">
               <p>Those plan are great btw 🎊</p>
