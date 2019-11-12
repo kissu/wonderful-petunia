@@ -21,6 +21,7 @@ export default class SectionPricing extends React.Component {
               {_.get(this.props, 'section.pricingplans') &&
               <div className="inner">
               <p>Those plan are great btw 🎊</p>
+              <p>this updte is really cool btw !</p>
                 <div className="grid">
                   {_.map(_.get(this.props, 'section.pricingplans'), (plan, plan_idx) => (
                   <div key={plan_idx} className={'cell plan' + (_.get(plan, 'highlight') ? ' highlight' : '')}>
