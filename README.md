@@ -27,7 +27,8 @@ The content of this site is managed by Sanity.io. Visit https://wonderful-petuni
 1. [Optional] Running Sanity Studio locally: install sanity-cli `npm install -g sanity-cli` and run `sanity start` inside the `/studio` directory
 
 1. Starts a development server
+2. a;asasasd
 
         npm run develop
 
-1. Browse to [http://localhost:8000/](http://localhost:8000/)
+3. Browse to [http://localhost:8000/](http://localhost:8000/)
